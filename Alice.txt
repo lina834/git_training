@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 asked to put some text on second line
 on stage merging divergent branches
 more and more
+on Pulling with Conflicts
