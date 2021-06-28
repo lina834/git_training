@@ -3,3 +3,4 @@ asked to put some text on second line
 on stage merging divergent branches
 more and more
 on Pulling with Conflicts
+changes
